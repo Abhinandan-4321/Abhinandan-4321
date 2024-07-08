@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p> "Embarking on the Full Stack Journey: Exploring the Web Dev Galaxy, One Component at a Time 🌐🚀" </p>
-<img style="border-radius: 10px;" src='https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk0NjMyNzEsIm5iZiI6MTcxOTQ2Mjk3MSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI3VDA0MzYxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY0YTZiNDcwZGM1OTUxODY4MWQwMjVmZTgyYzkwM2Q5NmZmYzdmNDI5MWZiMzg5NTMwMTU5ZjkxMjk4NDljNzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.IulNDvi98fk_MjySrDzJBLWbiMPdRf6aVncZnJcYU7g'>
+<img style="border-radius: 10px;" src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'>
 
 ## Current Focus:
 🔭 Currently working on crafting interactive web applications using the MERN stack and diving deeper into the world of web development.<br>
