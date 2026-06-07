@@ -1,11 +1,8 @@
-# ✨ Abhinandan Gupta 👋
+# ✨ Abhinandan Gupta 
 <p>
-  Software Engineer passionate about building scalable systems, solving complex problems, and continuously learning how software works at scale.
-</p>
-<p>
+  Software Engineer passionate about building scalable systems, solving complex problems, and continuously learning how software works at scale.<br>
   Experienced across backend engineering, full-stack development, data platforms, and AI-powered applications.
 </p>
-
 <p align="center">
   <code>⚙️ Backend Systems</code>
   <code>🌐 Full-Stack Applications</code>
