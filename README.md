@@ -1,40 +1,124 @@
-# 💫 About Me:
-<p> "Embarking on the Full Stack Journey: Exploring the Web Dev Galaxy, One Component at a Time 🌐🚀" </p>
-<img style="border-radius: 10px;" src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'>
+<table>
+<tr>
+<td valign="middle" width="60%" align="center">
 
-## Current Focus:
-🔭 Currently working on crafting interactive web applications using the MERN stack and diving deeper into the world of web development.<br>
+<h1>Abhinandan Gupta 👋</h1>
 
-👯 Looking forward to collaborating on innovative web development projects that not only increase my knowledge but also provide a real-world application experience, especially those involving the MERN stack and cutting-edge technologies.<br>
+<p>
+Software Engineer passionate about building scalable systems,
+solving complex problems, and continuously learning how software works at scale.
+</p>
 
-🌱 Currently, I am delving into full-stack development, focusing on mastering both front-end and back-end technologies. Simultaneously, I am honing my skills in C++ to enhance my understanding and proficiency in data structures and algorithms. This comprehensive approach allows me to build robust applications and solve complex problems effectively.<br>
+<h3>Engineering Domains</h3>
 
-💬 Feel free to ask me about anything related to React.js, JavaScript, Express.js, Node.js, MongoDB, or data structures. I'm always excited to discuss and share knowledge on these topics!<br>
+<table>
+<tr>
+<td align="center"><b>⚙️ Backend Systems</b></td>
+<td align="center"><b>🌐 Full-Stack Applications</b></td>
+</tr>
+<tr>
+<td align="center"><b>📊 Data Platforms & Analytics</b></td>
+<td align="center"><b>🤖 AI-Powered Solutions</b></td>
+</tr>
+</table>
 
-⚡ I love learning keyboard shortcuts. ⌨️
+</td>
+
+<td valign="middle" width="40%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</td>
+
+</tr>
+</table>
 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhinandangupta1805) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhinandan-gupta-b9293a294/) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhinandan-4321&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhinandan-4321&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinandan-4321&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhinandan-4321&theme=flat&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhinandan-4321&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Abhinandan-4321&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🛠 Tech Stack
 
-<p align='center'><img style="border-radius: 10px;" src='https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif'></p>
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,javascript&perline=10" />
+</p>
+
+**Frontend & Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind,spring&perline=10" />
+</p>
+
+**Databases & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,gcp,firebase&perline=10" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify&perline=10" />
+</p>
+
+**Data & AI** — PySpark · Airflow · BigQuery · Looker · LangChainJS · Gemini AI · RAG · Vector Databases
+
+---
+
+## 🚀 Projects
+
+### [BlogoSphere](https://blogosphere-alpha.vercel.app) — AI Powered Blogging Platform
+`MERN` `Socket.IO` `Redis` `LangChainJS` `Razorpay` `Google OAuth` `Cloudinary`
+
+A production-grade blogging platform with real-time collaboration, an AI writing assistant, and Razorpay payment integration. Built with JWT auth, Google OAuth, OTP verification, Redis-backed rate limiting, and role-based access control.
+
+---
+
+### Sahyog — Disaster Response Platform
+`MERN` `Socket.IO` `Gemini AI` `MongoDB Vector Store` `NLP`
+
+A real-time disaster intelligence platform built with a team of 6 during **Smart India Hackathon 2024** — selected as a **national finalist** under an NDRF problem statement. Features NLP-based urgency classification, geospatial dashboards, and vector-based semantic search.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    width="60%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinandan-4321&hide_border=false&border=E5E7EB"
+  />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Smart India Hackathon 2024** — National Finalist, NDRF problem statement
+- 🏅 **Hackfest 2025** — State-Level Qualifier, Top 10 teams in Himachal Pradesh
+- 📄 **Anveshan 2024** — Advanced to Regional Finals (Round 2)
+
+---
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/hey-abhinandan-gupta">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Abhinandan-4321">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:abhinandanguptaworks@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</div>
