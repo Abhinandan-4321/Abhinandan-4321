@@ -1,70 +1,65 @@
-<table>
-<tr>
-<td valign="middle" width="60%" align="center">
-
-<h1>Abhinandan Gupta 👋</h1>
-
+# ✨ Abhinandan Gupta 👋
 <p>
-Software Engineer passionate about building scalable systems,
-solving complex problems, and continuously learning how software works at scale.
+  Software Engineer passionate about building scalable systems, solving complex problems, and continuously learning how software works at scale.
+</p>
+<p>
+  Experienced across backend engineering, full-stack development, data platforms, and AI-powered applications.
 </p>
 
-<h3>Engineering Domains</h3>
+<p align="center">
+  <code>⚙️ Backend Systems</code>
+  <code>🌐 Full-Stack Applications</code>
+  <code>📊 Data Engineering & Analytics</code>
+  <code>🤖 AI-Powered Solutions</code>
+</p>
 
-<table>
-<tr>
-<td align="center"><b>⚙️ Backend Systems</b></td>
-<td align="center"><b>🌐 Full-Stack Applications</b></td>
-</tr>
-<tr>
-<td align="center"><b>📊 Data Platforms & Analytics</b></td>
-<td align="center"><b>🤖 AI-Powered Solutions</b></td>
-</tr>
-</table>
-
-</td>
-
-<td valign="middle" width="40%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
-</td>
-
-</tr>
-</table>
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
+### Core Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,javascript&perline=10" />
-</p>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 
-**Frontend & Backend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind,spring&perline=10" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Google\_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=firebase\&logoColor=ffca28)
 
-**Databases & Cloud**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,gcp,firebase&perline=10" />
-</p>
+### Data & AI
 
-**Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify&perline=10" />
-</p>
-
-**Data & AI** — PySpark · Airflow · BigQuery · Looker · LangChainJS · Gemini AI · RAG · Vector Databases
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge\&logo=googlebigquery\&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge\&logo=looker\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75FF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-0A66C2?style=for-the-badge)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### [BlogoSphere](https://blogosphere-alpha.vercel.app) — AI Powered Blogging Platform
 `MERN` `Socket.IO` `Redis` `LangChainJS` `Razorpay` `Google OAuth` `Cloudinary`
@@ -107,7 +102,7 @@ A real-time disaster intelligence platform built with a team of 6 during **Smart
 
 ---
 
-## 📬 Let's Connect
+## 🌐 Find Me Online
 
 <div align="center">
   <a href="https://linkedin.com/in/hey-abhinandan-gupta">
